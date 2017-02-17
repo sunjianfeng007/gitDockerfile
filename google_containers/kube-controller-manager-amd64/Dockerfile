@@ -1,2 +1,2 @@
-FROM grc.io/google_containers/kube-controller-manager-amd64
+FROM gcr.io/google_containers/kube-controller-manager-amd64
 

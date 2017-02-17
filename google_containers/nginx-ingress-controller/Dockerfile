@@ -1,2 +1,2 @@
-FROM grc.io/google_containers/nginx-ingress-controller
+FROM gcr.io/google_containers/nginx-ingress-controller
 
